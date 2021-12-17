@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h2
+{
+    top: 20px;
+    font-size: 20px;
+    text-align: center;
+    color:#222;
+    text-shadow: 0 0 5px greenyellow, 0 0 10px greenyellow, 0 0 15px greenyellow,0 0 20px greenyellow,0 0 30px greenyellow, 0 0 60px greenyellow,0 0 120px yellow;
+}
+
